@@ -10,6 +10,6 @@
 6. Repeat for other profiles as necessary.
 
 
-For linux users:
+# For Ubuntu users:
 1. chmod +x script.sh 
 2. ./script.sh
